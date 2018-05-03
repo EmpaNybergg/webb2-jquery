@@ -1,0 +1,1 @@
+{"version":3,"file":"../sass/css05.css","sources":["css05.scss"],"sourcesContent":[".test {\n    background-color: crimson;\n\n    height: 200px;\n    width: 200px;\n}\n"],"names":[],"mappings":"AAAA,AAAA,KAAK,CAAC;EACF,gBAAgB,EAAE,OAAO;EAEzB,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,KAAK,GACf"}

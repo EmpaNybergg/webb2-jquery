@@ -1,0 +1,1 @@
+{"version":3,"file":"../sass/ev05.css","sources":["ev05.scss"],"sourcesContent":["div {\n    font-size: 2rem;\n    font-family: arial, helvetica, sans-serif;\n}\n"],"names":[],"mappings":"AAAA,AAAA,GAAG,CAAC;EACA,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,4BAA4B,GAC5C"}

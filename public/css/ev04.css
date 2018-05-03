@@ -1,0 +1,11 @@
+button {
+  display: block; }
+
+.box {
+  background-color: crimson;
+  float: left;
+  height: 20px;
+  width: 20px;
+  margin: 5px; }
+
+/*# sourceMappingURL=../maps/ev04.css.map */

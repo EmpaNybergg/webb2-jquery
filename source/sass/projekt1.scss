@@ -1,0 +1,33 @@
+
+body {
+    background-color: blue;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    min-height: 100vh;
+}
+
+
+.masterdiv {
+    background-color: white;
+
+    height: 400px;
+    width: 400px;
+    //margin: 0 auto;
+    //margin-top: calc(50% - 200px);
+
+    font-size: 4rem;
+    color: black;
+    text-align: center;
+
+    border-radius: 10%;
+}
+.datum {
+    font-size: 3em;
+}
+
+.månad {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
