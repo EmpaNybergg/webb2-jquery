@@ -1,0 +1,16 @@
+dt::before {
+  content: "\f0fe";
+  padding-right: 5px;
+  font-family: FontAwesome; }
+
+.minus::before {
+  content: "\f146"; }
+
+dd {
+  display: none;
+  -webkit-margin-start: 0; }
+
+dl {
+  font-size: 2rem; }
+
+/*# sourceMappingURL=../maps/projekt3.css.map */
