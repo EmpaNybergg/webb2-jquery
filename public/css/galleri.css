@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  background-color: #6c7a89;
+  margin: 0;
+  padding: 0; }
+
+header {
+  height: 8rem;
+  font-size: 5rem;
+  line-height: 8rem;
+  color: #fff;
+  text-align: center;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5); }
+
+.galleri {
+  background-position: 0;
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center; }
+
+.galleri a {
+  background-color: aliceblue;
+  display: inline-block;
+  margin: 1rem;
+  padding: .5rem;
+  text-decoration: none;
+  border: 1px solid #ccc;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+  transition: 0,5s; }
+
+.galleri a:hover {
+  box-shadow: 8px 8px 8px rbga(0, 0, 0, 0.5);
+  transform: scale(1.1) rotate(2deg);
+  transition: 2s; }
+
+.galleri img {
+  border: 1px solid #ccc; }
+
+/*# sourceMappingURL=../maps/galleri.css.map */

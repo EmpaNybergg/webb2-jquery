@@ -1,2 +1,11 @@
+body {
+  min-height: 100vh;
+  margin: 0; }
+
+header {
+  background-image: url(../images/movebg-tiny.png);
+  height: 50vh;
+  min-height: 200px;
+  width: 100%; }
 
 /*# sourceMappingURL=../maps/projekt8.css.map */
